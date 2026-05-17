@@ -54,8 +54,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=m4ynk-dev&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4ynk-dev&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m4ynk-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
