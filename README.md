@@ -63,7 +63,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m4ynk-dev/m4ynk-dev/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/m4ynk-dev/m4ynk-dev/output/snake.svg" alt="Contribution Snake" />
 </p>
 ---
 
