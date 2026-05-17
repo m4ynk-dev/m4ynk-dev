@@ -63,7 +63,14 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m4ynk-dev/m4ynk-dev/output/snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/m4ynk-dev/m4ynk-dev/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/m4ynk-dev/m4ynk-dev/output/snake.svg" />
+    <img alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/m4ynk-dev/m4ynk-dev/output/snake.svg" />
+  </picture>
 </p>
 ---
 
@@ -90,13 +97,4 @@
 
 ⭐ *"idk what I'm doing, just going with the flow"*
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/m4ynk-dev/m4ynk-dev/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/m4ynk-dev/m4ynk-dev/output/snake.svg" />
-    <img alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/m4ynk-dev/m4ynk-dev/output/snake.svg" />
-  </picture>
-</p>
+
