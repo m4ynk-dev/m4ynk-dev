@@ -54,7 +54,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4ynk-dev&show_icons=true&theme=tokyonight" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4ynk-dev&theme=tokyonight" />
 </p>
 
