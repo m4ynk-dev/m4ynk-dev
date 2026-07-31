@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Mayank Kumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=First+Year+B.Tech+Student;Aspiring+Software+Developer;Building+Circuit+Simulation+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Second+Year+B.Tech+Student;Aspiring+Software+Developer;Building+Circuit+Simulation+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 First-year B.Tech student at IPU
+* 🎓 Second-year B.Tech student at IPU
 * 💡 Passionate about **coding, problem-solving, and building real-world projects**
 * ⚡ Currently working on **Circuit Setu (Circuit Simulation Website)**
 * 📚 Learning **DSA, React, and Backend Development**
